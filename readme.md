@@ -2,6 +2,13 @@
 
 Dashboard interactivo desarrollado en **Streamlit** para el análisis de datos de empaquetamiento de servicios fijos en Colombia (2023-2024), utilizando datos públicos de [Postdata - Gobierno de Colombia](https://www.postdata.gov.co).
 
+[![Ver aplicación desplegada](https://img.shields.io/badge/Ver%20App-Deploy-blue)](http://157.137.229.69:5555/)
+## 🚀 Aplicación desplegada
+
+La aplicación está disponible aquí:  
+👉 http://157.137.229.69:5555/
+
+
 ## 🎯 Características Principales
 
 - **8 Módulos de Análisis Completos**
@@ -286,5 +293,6 @@ Este proyecto fue desarrollado como parte de una prueba técnica para análisis 
 ---
 
 **Desarrollado por: Andrés Gómez**
+
 
 **¡Disfrute explorando los datos de servicios fijos de Colombia! 🇨🇴 📊**
